@@ -1,0 +1,4 @@
+Um procedimento seria uma função na qual não é apresentada um parâmetro nem um retorno, o procedimento geralmente é do tipo void, pois não se há retorno.
+
+
+Já a função haverá pelo menos um parâmetro ou retorno, necessitando de pelo menos um deles para ser não ser considerada procedimento
